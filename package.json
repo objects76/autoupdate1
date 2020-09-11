@@ -14,7 +14,7 @@
             "ship": "build --win -p always"
         },
     "devDependencies": {
-        "electron": "^1.7.5",
+        "electron": "^10.1.1",
         "electron-builder": "^19.20.1"
     }
 }
